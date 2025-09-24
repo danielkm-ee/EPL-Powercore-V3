@@ -7,7 +7,7 @@
 	(title_block
 		(title "Dual Converter Motherboard")
 		(date "2025-07-29")
-		(rev "G")
+		(rev "H")
 		(company "Rack Robotics, Inc.")
 	)
 	(lib_symbols
